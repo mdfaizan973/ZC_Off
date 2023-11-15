@@ -1,8 +1,11 @@
+import Navbar from "./Components/Navbar";
+import Home from "./Pages/Home";
+
 export default function App() {
   return (
     <div>
-      <h1>Hello - world</h1>
-      <p>I am gonna create a very good website using react and tailwind CSS.</p>
+      <Navbar />
+      <Home />
     </div>
   );
 }
