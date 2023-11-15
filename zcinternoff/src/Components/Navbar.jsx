@@ -66,11 +66,12 @@ export default function Navbar() {
             </ul>
           </div>
           <a className="btn btn-ghost text-xl">
-            <img
+            {/* <img
               className="w-24 h-auto"
               src="https://d1syadtv5cx0g6.cloudfront.net/website/3351682680_offer18_black_logo_2.webp"
               alt="Logo"
-            />
+            /> */}
+            Offer973
           </a>
         </div>
         {/* Lg Screen View */}
